@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PedroHGithub
+- 👀 I’m interested in game development and front-end web programming.
+- 🌱 I’m currently learning C++ and C#
+- 💞️ I’m looking to collaborate on game development.
